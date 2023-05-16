@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Nibazzador
-- 🌱 I’m currently learning Unity, C#, python, HTML, css and javascript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+    - (+ Little bit of Unity, C# and Python)
 - 📫 How to reach me: vesterinen.contact@gmail.com
