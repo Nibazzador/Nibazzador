@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Nibazzador
-- 🌱 I’m currently learning HTML, CSS, JavaScript and other front-end dev related stuff.
-    - (+ I have also used Unity, C# and Python a little bit)
-- 📫 How to reach me: vesterinen.contact@gmail.com
+- 👋 Hi
+- 🌱 Learning HTML, CSS and JavaScript
+- 📫 vesterinen.contact@gmail.com
